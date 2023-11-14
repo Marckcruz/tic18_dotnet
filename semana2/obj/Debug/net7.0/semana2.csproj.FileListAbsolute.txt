@@ -1,0 +1,15 @@
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/bin/Debug/net7.0/semana2
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/bin/Debug/net7.0/semana2.deps.json
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/bin/Debug/net7.0/semana2.runtimeconfig.json
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/bin/Debug/net7.0/semana2.dll
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/bin/Debug/net7.0/semana2.pdb
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/obj/Debug/net7.0/semana2.csproj.AssemblyReference.cache
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/obj/Debug/net7.0/semana2.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/obj/Debug/net7.0/semana2.AssemblyInfoInputs.cache
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/obj/Debug/net7.0/semana2.AssemblyInfo.cs
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/obj/Debug/net7.0/semana2.csproj.CoreCompileInputs.cache
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/obj/Debug/net7.0/semana2.dll
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/obj/Debug/net7.0/refint/semana2.dll
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/obj/Debug/net7.0/semana2.pdb
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/obj/Debug/net7.0/semana2.genruntimeconfig.cache
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/obj/Debug/net7.0/ref/semana2.dll

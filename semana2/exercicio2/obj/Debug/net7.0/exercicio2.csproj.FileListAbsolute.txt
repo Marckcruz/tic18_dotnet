@@ -1,0 +1,15 @@
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/exercicio2/bin/Debug/net7.0/exercicio2
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/exercicio2/bin/Debug/net7.0/exercicio2.deps.json
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/exercicio2/bin/Debug/net7.0/exercicio2.runtimeconfig.json
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/exercicio2/bin/Debug/net7.0/exercicio2.dll
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/exercicio2/bin/Debug/net7.0/exercicio2.pdb
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/exercicio2/obj/Debug/net7.0/exercicio2.csproj.AssemblyReference.cache
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/exercicio2/obj/Debug/net7.0/exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/exercicio2/obj/Debug/net7.0/exercicio2.AssemblyInfoInputs.cache
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/exercicio2/obj/Debug/net7.0/exercicio2.AssemblyInfo.cs
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/exercicio2/obj/Debug/net7.0/exercicio2.csproj.CoreCompileInputs.cache
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/exercicio2/obj/Debug/net7.0/exercicio2.dll
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/exercicio2/obj/Debug/net7.0/refint/exercicio2.dll
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/exercicio2/obj/Debug/net7.0/exercicio2.pdb
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/exercicio2/obj/Debug/net7.0/exercicio2.genruntimeconfig.cache
+/home/marcelo-silva-cruz/tic18_dotnet/semana2/exercicio2/obj/Debug/net7.0/ref/exercicio2.dll
